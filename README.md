@@ -50,3 +50,8 @@ This project analyzes global tech layoffs using SQL to uncover trends, key metri
 
 
 Thanks for learning with me :) 
+
+## 📬 Contact
+Let’s connect!
+📧 Email: ashleighellis1999@gmail.com 🌐 portfolio site pending...
+💼 LinkedIn: https://www.linkedin.com/in/ashleigh-ellis-2bba081a8/
